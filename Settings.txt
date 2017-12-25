@@ -1,0 +1,8 @@
+Resolution = 1280 x 720
+Fullscreen = false
+vSync = true
+AntiAliasing = 4x
+AnisotropicFiltering = true
+Fov = 90
+Brightness = 107
+FpsLimitation = 60

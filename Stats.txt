@@ -1,0 +1,12 @@
+Kills = 0
+Deaths = 0
+GamePlayed = 0
+Wins = 0
+Loses = 0
+MinutesPlayed = 0
+Skills = 0
+LastKill = 0
+LastDeaths = 0
+LastDamageDealt = 0
+LastDamageTaken = 0
+LastKillStreak = 0

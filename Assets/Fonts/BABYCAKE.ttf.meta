@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a7b927d1a1ea32241817ada05a5044a5
+timeCreated: 1496336583
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Babycakes
+  fontNames:
+  - Babycakes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
